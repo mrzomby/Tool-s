@@ -63,7 +63,7 @@ def dios():
     baner = n + '\n\t\t[+]==============================[+]\n\t\t |   \t\x1b[93mCoded by Mr.ZOMBY\x1b[0m      |\n\t\t |   \t\x1b[93mDios Sqli Creator\x1b[0m         |\n\t\t |   \t\x1b[93mTeam: Zone-Xploiter\x1b[0m       |\n\t\t |   \t\x1b[93mCP  : +628811664850\x1b[0m       |\n\t\t[+]==============================[+]\n\t\t\n\n[1].dios by _w0n63d4n_ (easy and medium web)\n[2].dios by Zx7 (medium and hard web)\n[3].keluar tools'
     system('clear')
     print baner
-    sayang = raw_input(k + '\nmasukan piliha >\x1b[92m ')
+    sayang = raw_input(k + '\nmasukan pilihan >\x1b[92m ')
     if sayang == '1':
         try:
             cek = raw_input(k + 'masukan url gmbr dlm hex >\x1b[92m ')
